@@ -75,6 +75,7 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
+    <ClCompile Include="fd_seri.cpp" />
     <ClCompile Include="open.cpp" />
     <ClCompile Include="read.cpp" />
   </ItemGroup>
